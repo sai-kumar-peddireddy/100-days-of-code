@@ -27,4 +27,13 @@
 
 [Prime Number factor generation 1](https://ide.geeksforgeeks.org/8tv3XnVKNV) Naive method
 
+### Day 2: October 2, 2020 
+
+
+**Today's Progress**: Learned about divisors, prime numbers
+and power of a number 
+
+**Thoughts:** Today I spent more time because of office holyday. I feel that almost most of problems are sharing some part of solution common If I learn to solve one problem that is helping to think other problems with same pattern
+
+
 
