@@ -35,5 +35,16 @@ and power of a number
 
 **Thoughts:** Today I spent more time because of office holyday. I feel that almost most of problems are sharing some part of solution common If I learn to solve one problem that is helping to think other problems with same pattern
 
+### Day 3: October 3, 2020 
+
+
+**Today's Progress**: solving problems on Prime numbers and geometric progression
+
+**Thoughts:** Today I spent time on solving problems on topics learned, I am failed to solve one problem I will do it.
+
+**Link to work:** 
+
+[Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1),
+[GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1/)
 
 
