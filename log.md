@@ -47,4 +47,14 @@ and power of a number
 [Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1),
 [GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1/)
 
+### Day 4: October 4, 2020 
+
+
+**Today's Progress**: Solving problems on divisors.
+
+**Thoughts:** Today I spent time on solving a problem finding numbers which has exactly 3 divisors.Today I have't spend much time on studing.
+
+**Link to work:** 
+
+Internet issue I will update links soon.
 
