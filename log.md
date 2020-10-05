@@ -56,5 +56,5 @@ and power of a number
 
 **Link to work:** 
 
-Internet issue I will update links soon.
+[Exactly 3 Divisors ](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/)
 
