@@ -58,3 +58,15 @@ and power of a number
 
 [Exactly 3 Divisors ](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/)
 
+### Day 5: October 5, 2020 
+
+
+**Today's Progress**: Solving same problem on divisors.
+
+**Thoughts:** Tried the solution using hints not able to do it, finally seen the solution.
+I am not able to recall the old solutions to match with the current one. I observe that to solve a problem we must apply all previous learning techniques to it.
+
+**Link to work:** 
+
+[Exactly 3 Divisors ](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/)
+
